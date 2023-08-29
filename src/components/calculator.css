@@ -1,0 +1,24 @@
+.birthday-date {
+    width: 260px;
+    height: 40px;
+    font-size: 28px;
+    border-radius: 0.25em;
+
+}
+
+.cover {
+    background-color: white;
+    width: 30em;
+    height: 30em;
+    border-radius: 12px;
+    box-shadow: 0 10px 10px rgba(156, 156, 156, 156);
+    margin-left: 30em;
+    text-align: center;
+    padding-top: 1.5rem;
+}
+.calculate-btn{
+    width: 2in;
+    height: 40px;
+    border-radius: 0.25em;
+    font-size: 28px;
+}
